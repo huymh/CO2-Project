@@ -18,4 +18,5 @@ This project is an interactive Power BI dashboard that visualizes global and nat
 - DAX : calculations and measures
 
 ## Preview
-<img width="1501" height="863" alt="co2_preview" src="https://github.com/user-attachments/assets/8747a685-9fca-4034-8d5f-bd40d6863353" />
+<img width="1544" height="871" alt="co2_preview" src="https://github.com/user-attachments/assets/4104454b-cd84-4a58-be9d-3111fd3bb9e6" />
+
