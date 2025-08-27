@@ -10,7 +10,7 @@ This project is an interactive Power BI dashboard that visualizes global and nat
 - Encorporates DAX for calculated measures
 
 ## SQL Query
-Within Microsoft SQL Server Management Studio, each nation's cumulative and average fossil fuel emissions amount, starting year, ending year, and total years of emissions was queried using the following T-SQL query.
+In Microsoft SQL Server Management Studio, the following T-SQL query was used to retrieve each nation’s cumulative and average fossil fuel emissions, as well as their starting year, ending year, and total years of emissions.
 ```sql
 -- Get aggregations of interest (cumulative ffe, avg ffe, start year, end year, years of ffe) per country
 -- sorted by cumulative and average FFE descending
