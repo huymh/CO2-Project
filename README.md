@@ -9,7 +9,7 @@ This project is an interactive Power BI dashboard that visualizes global and nat
 - Historical trends with dynamic visuals
 - Encorporates DAX for calculated measures
 
-## 📰 Source
+## 📊 Data
 [National CO2 emissions from fossil fuels and cement manufacture](https://rieee.appstate.edu/projects-programs/cdiac/)
 
 ## 🛠 Tools Used
