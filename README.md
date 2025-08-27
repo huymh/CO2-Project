@@ -1,6 +1,6 @@
 # ⛽ National CO2 Emissions from Fossil Fuels and Cement Production
 
-## 📈 Overview
+## 📰 Overview
 This project is an interactive Power BI dashboard that visualizes global and national CO2 emissisions by country and year. It was built to highlight trends, compare nations, and explore historical emission patterns from 1751 to 2020.
 
 ## 💡 Highlights
